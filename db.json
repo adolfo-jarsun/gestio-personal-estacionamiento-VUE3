@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "email": "ajarsun@hotmail.com",
+      "password": "$2a$10$cmCg/9Zp.ydYHiGzJ3p/FOnCg/G7usHPBk6vrJ1Mw0LxKJbxVHSYy",
+      "name": "Adolfo Jarsun",
+      "id": 1
+    },
+    {
+      "email": "usuario@test.com",
+      "password": "$2a$10$H.ZBYWMtNggwnDXMN0k8AOXppttf0QQJ79Vw7RqVGsDrOppgJWQfO",
+      "name": "Usuario de Prueba",
+      "id": 2
+    }
+  ],
+  "pacientes": [],
+  "medicos": [],
+  "citas": [],
+  "movilidades": [
+    {
+      "nombreEmpleado": "Juan Salvador Gabiota",
+      "areaId": 4,
+      "tipoVehiculoId": 2,
+      "placa": "645HTF",
+      "color": "Rojo",
+      "id": 1
+    },
+    {
+      "nombreEmpleado": "Pedro Gonzales",
+      "areaId": 1,
+      "tipoVehiculoId": 1,
+      "placa": "765PTA",
+      "color": "Rojo",
+      "id": 2
+    },
+    {
+      "nombreEmpleado": "Mario Ruiz",
+      "areaId": 2,
+      "tipoVehiculoId": 1,
+      "placa": "948HTS",
+      "color": "Amarillo",
+      "id": 3
+    },
+    {
+      "nombreEmpleado": "Emilio Luedueña",
+      "areaId": 2,
+      "tipoVehiculoId": 3,
+      "placa": "9849hnb",
+      "color": "Verde",
+      "id": 4
+    },
+    {
+      "nombreEmpleado": "Ana Maria Gonzales",
+      "areaId": 3,
+      "tipoVehiculoId": 1,
+      "placa": "9484PTU",
+      "color": "Rosado",
+      "id": 5
+    },
+    {
+      "nombreEmpleado": "Martha Mendez",
+      "areaId": 3,
+      "tipoVehiculoId": 2,
+      "placa": "873TGA",
+      "color": "Blanco",
+      "id": 6
+    }
+  ],
+  "areas": [
+    {
+      "id": 1,
+      "nombre": "Producción"
+    },
+    {
+      "id": 2,
+      "nombre": "Finanzas"
+    },
+    {
+      "id": 3,
+      "nombre": "Contabilidad"
+    },
+    {
+      "nombre": "Sistemas",
+      "id": 4
+    }
+  ],
+  "tiposVehiculo": [
+    {
+      "id": 1,
+      "nombre": "Automóvil"
+    },
+    {
+      "id": 2,
+      "nombre": "Moto"
+    },
+    {
+      "nombre": "SUV",
+      "id": 3
+    }
+  ]
+}
