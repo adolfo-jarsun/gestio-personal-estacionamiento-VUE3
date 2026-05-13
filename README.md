@@ -144,8 +144,8 @@ http://localhost:3000
 # Usuario de Prueba
 
 ```text
-Email: adolfo@test.net
-Password: 123456
+Email: usuario@test.com
+Password: 1234
 ```
 
 > Nota: la contraseña almacenada en db.json se encuentra encriptada mediante bcrypt.
